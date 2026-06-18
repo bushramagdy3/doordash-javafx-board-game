@@ -1,0 +1,37 @@
+.root {
+    -fx-font-family: "Consolas";
+    -fx-background-color: #0E0F1A;
+}
+
+.label {
+    -fx-text-fill: #FFF9FF;
+}
+
+.button {
+    -fx-background-color: #6E59FF;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-border-color: #FF77C8;
+    -fx-border-width: 2;
+    -fx-padding: 8 16 8 16;
+}
+
+.button:hover {
+    -fx-background-color: #FF77C8;
+    -fx-text-fill: #0E0F1A;
+}
+
+.check-box {
+    -fx-text-fill: white;
+}
+
+.radio-button {
+    -fx-text-fill: white;
+}
+
+.text-area {
+    -fx-control-inner-background: #1D1B33;
+    -fx-text-fill: #FFF9FF;
+    -fx-border-color: #6E59FF;
+    -fx-border-width: 2;
+}
