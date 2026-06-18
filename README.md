@@ -88,4 +88,4 @@ This project was developed for the CSEN401 course at the German University in Ca
 
 ## Disclaimer
 
-This is a non-commercial educational project. Character names and themed references associated with *Monsters, Inc.* belong to their respective rights holders. Visual and audio assets remain the property of their original creators.
+This is a non-commercial educational project. Character names and themed references associated with *Monsters, Inc.* belong to their respective rights holders.
